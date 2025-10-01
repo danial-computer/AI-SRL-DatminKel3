@@ -28,8 +28,8 @@ with st.sidebar:
     # Informasi Tim
     st.header("Tim Pengembang")
     st.markdown("""
-    - Katrina Grace Kwok (140810240009)
     - Jovianie Felisia Suryadi (140810240010)
+    - Katrina Grace Kwok (1408102400011)
     - Tubagus Achmad Danial Ma’arief (140810240030)
     - Muhammad Faris Muhtarom (140810240038)
     - Dzikry Fakhry (140810240056)
